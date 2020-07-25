@@ -197,7 +197,6 @@ namespace CsvFileHandling
                 NONE,
                 JOB_STARTED,
                 EXECUTING,
-                MONITORING_INPUT,
                 COPYING_TO_PROCESSING,
                 MONITORING_PROCESSING,
                 MONITORING_TCPIP,
